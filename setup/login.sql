@@ -4,7 +4,8 @@
 # Добавить в ~/.bash_profile: export SQLPATH=/home/oracle/Desktop/Tom_Kyte_Book/scripts/ch00/
 # Для выполнения ~/.bash_profile без перезагрузки системы выполнить: reload .bash_profile from command line: source ~/.bash_profile
 
-define _editor=vi					# для переходв в vi - выполнить ed в коммандной строке sqlplus
+define _editor=vi					# для переходв в vi - выполнить ed в коммандной строке sqlplus.
+									# ввести код, выйти с сохранением :wq, выполнение кода в sqlplus коммандой /
 									# вместо vi можно использовать vim
 									# для получения последней выполненной комманды в sqlplus используется комманда l
 
