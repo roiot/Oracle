@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"cout"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"ve",
+				"vectorPrototype"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"bla",
+				"blackRabbit"
+			],
+			[
+				"red",
+				"redRabbit"
+			],
+			[
+				"bi",
+				"binded"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"bo",
+				"border-width"
+			],
+			[
+				"l",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/skryabin_dg/Desktop/Programming/Oracle"
+	],
+	"file_history":
+	[
+		"/Users/skryabin_dg/Desktop/Programming/hello.cpp",
+		"/Users/skryabin_dg/Desktop/Programming/Oracle/diagnostics/big_table.sql",
+		"/Users/skryabin_dg/Desktop/Programming/Oracle/diagnostics/mystat.sql",
+		"/Users/skryabin_dg/Desktop/Programming/Oracle/diagnostics/mystat2.sql",
+		"/Users/skryabin_dg/Desktop/Programming/Oracle/setup/runstats_pkg.sql",
+		"/Users/skryabin_dg/Desktop/Programming/Oracle/setup/login.sql",
+		"/Users/skryabin_dg/Desktop/Programming/Oracle/setup/statspack",
+		"/Users/skryabin_dg/Desktop/Programming/Oracle/setup/autotrace.txt",
+		"/Users/skryabin_dg/Desktop/Programming/Oracle/login.sql",
+		"/Users/skryabin_dg/Downloads/demo/З†й®в† 2-ге ™Ѓ≠•© (зса≠лђ®).pgn",
+		"/Users/skryabin_dg/Downloads/demo/З†й®в† 2-ге ™Ѓ≠•© (зса≠лђ®).cbv",
+		"/Users/skryabin_dg/Desktop/HTML, CSS/Portfolio/framework/test.html",
+		"/Users/skryabin_dg/Desktop/HTML, CSS/style.css",
+		"/Users/skryabin_dg/Desktop/HTML, CSS/app.html",
+		"/Users/skryabin_dg/Desktop/index.html",
+		"/Volumes/SKRYABIN_DG/МШП/Pascal/Проекты/Вычисление примера (a+3(d-12))(c-5k).pas"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"50px",
+			"display",
+			"* { box-sizing: border-box; }\n",
+			"style",
+			"span"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 113.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "oracle.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
