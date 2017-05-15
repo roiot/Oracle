@@ -2,7 +2,8 @@
 select sys_context( 'userenv', 'current_schema' ) from dual;
 
 -- Смена языка
-alter session set nls_language=american
+alter session set nls_language=american --russian
+
 
 --Сброс состояния plsqls для сессии (глобальные переменные и т.п.)
 execute dbms_session.reset_package;
